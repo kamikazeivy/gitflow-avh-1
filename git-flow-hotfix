@@ -741,3 +741,7 @@ showcommands!    Show git commands while executing them
 "
 	gitflow_rename_branch "$@"
 }
+
+## git flow usage
+
+### Creating feature/release/hotfix/support branches
