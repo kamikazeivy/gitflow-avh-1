@@ -66,3 +66,6 @@ uninstall:
 	rm -f $(EXEC_FILES) $(SCRIPT_FILES)
 	test -d $(docdir) && \
 	rm -rf $(docdir)
+
+clean:
+	rm -f *~
